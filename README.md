@@ -1,5 +1,5 @@
 # Player
-Video player for Windows, Linux, and Mac.
+Java VideoPlayer for Windows, Linux, and Mac.
 
 # License
-This is open source and available under the License.
+This is open source and under the License.
