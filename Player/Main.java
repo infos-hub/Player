@@ -12,7 +12,7 @@ public class Main {
         //--------------- Close X Button -----------------//
         win.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
-        ImageIcon Icon = new ImageIcon(Main.class.getResource("Logo/Icon.png"));
+        ImageIcon Icon = new ImageIcon(Main.class.getResource("/Logo/Icon.png"));
         win.setIconImage(Icon.getImage());
 
         //---------------------- Background -----------------------//
