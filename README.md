@@ -1,2 +1,5 @@
 # Player
-Simple, regular desktop media video player program for Windows, Linux, and Mac
+Media video player for Windows, Linux, and Mac.
+
+# License
+This is open source and available under the License.
