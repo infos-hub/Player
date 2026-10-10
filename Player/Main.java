@@ -9,6 +9,9 @@ public class Main {
         //-------- Named window ---------//
         JFrame win = new JFrame("Player");
 
+        //---------------------- Background -----------------------//
+        win.getContentPane().setBackground(Color.decode("#21212B"));
+        
         //---------- Position ---------//
         win.setLocationRelativeTo(null);
         
