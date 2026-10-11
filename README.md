@@ -1,5 +1,5 @@
 # Player
-Java Player for Windows, Linux, and Mac.
+Java MediaPlayer is available for system operations on Windows, Linux, and MacOS.
 
 # License
-This is open source and under the license.
+This project is fully open source and available under the license.
