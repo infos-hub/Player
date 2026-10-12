@@ -1,1 +1,1 @@
-This was made with the community open-source IDE VsCodium & KylindleTeam extensions.
+This was made with the community open-source IDE VsCodium & KylindleTeam extension["Kylin Java Pack(Support OpenJDK11)"]
