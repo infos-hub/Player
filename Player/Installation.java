@@ -2,7 +2,7 @@
 import javax.swing.ImageIcon;
 import javax.swing.JFrame;
 
-public class Main {
+public class Installation {
     public static void main(String[] args) {
         //-------- Named window ---------//
         JFrame win = new JFrame("Player");
