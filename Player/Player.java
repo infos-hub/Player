@@ -12,6 +12,9 @@ public class Player {
         //--------------- Close X Button -----------------//
         win.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
+        //--- Size ---//
+        win.setSize();
+
         //------------------------------- Logo ---------------------------------//
         ImageIcon Icon = new ImageIcon(Main.class.getResource("/Logo/Icon.png"));
         win.setIconImage(Icon.getImage());
